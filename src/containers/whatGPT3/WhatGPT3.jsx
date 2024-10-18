@@ -1,5 +1,6 @@
 import React from "react";
-import { Feature } from "../../components";
+// import { Feature } from "../../components";
+import Feature from "../features/Features"
 import "./whatGPT3.css";
 
 const WhatGPT3 = () => {
@@ -15,7 +16,7 @@ const WhatGPT3 = () => {
         <p>Explore The Library</p>
       </div>
       <div className="gpt3__whatgpt3-container">
-        <Feature title="chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "/>
+        <Feature title="chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."/>
         <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"/>
         <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"/>
       </div>
